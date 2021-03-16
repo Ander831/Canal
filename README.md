@@ -55,3 +55,19 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=-QAk3XFuKqWRk0uQMTX
 
 #EXTINF:-1 ,CINECANAL
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=2i_MuLG4c4WVkl_P6mHROQ&e=1615944068
+
+#EXTINF:-1 ,TNT
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/glaldsq.m3u8?s=3393cZkQAMpLxL7sS2hcyA&e=1615946869
+
+#EXTINF:-1 ,TNT Series
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=YVX2sCt3rpVrLlhOHC_XUA&e=1615947025
+
+#EXTINF:-1 ,SPACE
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=AWdtdn4BBVf4X2i37bScrQ&e=1615947150
+
+#EXTINF:-1 ,Comedy Central
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4qox4.m3u8?s=Z-h11S4a2uV2Ll7Reqncew&e=1615947247
+
+#EXTINF:-1 ,TlNovelas
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=OLPsCXYtpG7LsHlYsw8-kg&e=1615947450
+
