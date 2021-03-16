@@ -1,4 +1,4 @@
-# Canal
+
 #EXTM3U
 
 #EXTINF:-1 ,Cartoon Network
