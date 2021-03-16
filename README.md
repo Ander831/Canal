@@ -71,3 +71,23 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4qox4.m3u8?s=Z-h11S4a2uV2Ll7Reqnc
 #EXTINF:-1 ,TlNovelas
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=OLPsCXYtpG7LsHlYsw8-kg&e=1615947450
 
+#EXTINF:-1 ,Studio Universal
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=TZUP6fbE3pv-5-fscX9STA&e=1615947827
+
+#EXTINF:-1 ,Universal Channel
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=zQ-0NSxUa4yz-dDVNFyWlg&e=1615948005
+
+#EXTINF:-1 ,Warner
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=ycgTgKqIr9i_CLNMpbFkfg&e=1615948152
+
+#EXTINF:-1 ,Investigation Discovery
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1mptcl1.m3u8?s=MOdQbttuHqwSM-EN0KcWDw&e=1615948274
+
+#EXTINF:-1 ,h&h
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/adtxiz8zv.m3u8?s=PLEkKZQV52ZP69Kp2tuksA&e=1615948396
+
+#EXTINF:-1 ,TLC
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/yfbm3.m3u8?s=oe9DwxtgJMp6ge_nQqlDWA&e=1615948540
+
+#EXTINF:-1 ,Distrito Comedia
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=6knDTvBFGz6ejZ1z4dEsqQ&e=1615948686
