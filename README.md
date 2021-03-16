@@ -92,3 +92,5 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/yfbm3.m3u8?s=oe9DwxtgJMp6ge_nQqlD
 #EXTINF:-1 ,Distrito Comedia
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=6knDTvBFGz6ejZ1z4dEsqQ&e=1615948686
 
+#EXTINF:-1,KND |
+https://www.lacartoons.com/serie/capitulo/13585?t=1
