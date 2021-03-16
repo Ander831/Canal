@@ -7,7 +7,7 @@ https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Ct0EjRKpsNTlCV9SD1EJWcVOk9j
 
 #EXTINF:-1 ,Boomerang
 
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/bolmwc.m3u8?s=j7ytEubpiB-vyF7N40wEYw&e=1615940427
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/bolmwc.m3u8?s=X81rBm2dfjyHzOY5WeSYqg&e=1615950670
 
 
 #EXTINF:-1 ,Disney
