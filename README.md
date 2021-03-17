@@ -6,8 +6,7 @@ https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CtsEr3bzB9qdBWckyBdAaYs0dyV
 
 #EXTINF:-1 ,Boomerang
 
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/bolmwc.m3u8?s=X81rBm2dfjyHzOY5WeSYqg&e=1615950670
-
+https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=0ZXxlXYmMRbQMm0IqYZt2Q&e=1616046781
 
 #EXTINF:-1 ,Disney
 
@@ -62,7 +61,7 @@ https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/glaldsq.m3u8?s=yfziAYoPY-X0Uz3vLR
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=YVX2sCt3rpVrLlhOHC_XUA&e=1615947025
 
 #EXTINF:-1 ,SPACE
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=AWdtdn4BBVf4X2i37bScrQ&e=1615947150
+https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=7e7ILxC122TvU16lYGnt0A&e=1616046899
 
 #EXTINF:-1 ,Comedy Central
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4qox4.m3u8?s=Z-h11S4a2uV2Ll7Reqncew&e=1615947247
