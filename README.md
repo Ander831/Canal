@@ -14,7 +14,7 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CuAEnUgXhJkWSXIGUpfMrnl0PT8
 
 #EXTINF:-1 ,Tooncast
 
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/d7zi3sak.m3u8?s=JDDly-XpbE4T1oj-Ny22KQ&e=1615940226
+https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=LbQhJELsMqL--HCV7EfarA&e=1616047090
 
 #EXTINF:-1 ,Nick
 
@@ -73,7 +73,7 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=OLPsCXYtpG7
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=TZUP6fbE3pv-5-fscX9STA&e=1615947827
 
 #EXTINF:-1 ,Universal Channel
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=zQ-0NSxUa4yz-dDVNFyWlg&e=1615948005
+https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=NgGxJdAfDrnmWPF6x4ZvhA&e=1616047236
 
 #EXTINF:-1 ,Warner
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=ycgTgKqIr9i_CLNMpbFkfg&e=1615948152
